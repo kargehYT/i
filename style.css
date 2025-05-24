@@ -1,0 +1,36 @@
+body {
+    font-family: sans-serif;
+}
+h1{
+    text-align: center;
+border:5px  dotted ;
+border-color: coral;
+color: #0776A0;
+}
+
+.kot:hover{
+    transform:scale(5) translateX(-200px) translateY(-80px);
+transition: all 7s ease-out;
+}
+.basket{
+    border:3px red solid;
+}
+
+.kot{
+float:right;
+}
+
+li{
+    font-size: 30px;
+}
+
+body{
+    background-image: linear-gradient(white,#B964D4);
+}
+a{
+    border:#5A9800 3px solid;
+text-decoration: none;
+border-radius: 5px;
+background-image:linear-gradient(blue,black,white);
+color: rgb(160, 255, 255);
+}
